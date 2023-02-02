@@ -3,7 +3,7 @@ import Logo from '../assets/logo.png'
 
 const Header = ()=>{
     return(
-        <header className="w-full fixed py-[10px]">
+        <header className="w-full fixed py-[10px] bg-white z-50">
             <div className="font-['Source Sans Pro'] container mx-auto flex flex-row justify-between items-center">
                 <div>
                     <img src={Logo} alt=''/>

@@ -10,7 +10,7 @@ const Hero = ()=>{
     return(
         <div className="w-full mt-[80px]">
             <div className="container mx-auto flex flex-row gap-x-[100px] justify-between">
-                <div className="flex-1">
+                <div className="basis-1/2">
                     <div className="mb-[30px]">
                         <p className="text-primary mb-[15px]">CHAT N RECHAT</p>
                         <h1 className="font-primary text-[34px] mb-[15px]">Sebuah aplikasi chatting yang<br/>
